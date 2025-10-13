@@ -8,5 +8,9 @@ miniPCIe-playground
 - [jairov4/mini-pcie-card-template: Altium Designer 13 Board layout template containing an empty Mini PCI Express PCB. foot print library and schematic symbol.](https://github.com/jairov4/mini-pcie-card-template)
 - [2ftg/RTL_mPCIE: Mini-PCIe RTL-SDR](https://github.com/2ftg/RTL_mPCIE)
 - [drbild/kicad-mini-pci-e: KiCad footprints for Mini PCI Express cards](https://github.com/drbild/kicad-mini-pci-e)
+
 ### Pins
 - [DSTREAM-XT System and Interface Design Reference Guide](https://developer.arm.com/documentation/102444/1-0/Target-interface-connectors/Mini-PCIe-Connector)
+
+### Code
+- [linux/rust/kernel/pci.rs at master · torvalds/linux](https://github.com/torvalds/linux/blob/master/rust/kernel/pci.rs)
