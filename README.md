@@ -14,3 +14,6 @@ miniPCIe-playground
 
 ### Code
 - [linux/rust/kernel/pci.rs at master · torvalds/linux](https://github.com/torvalds/linux/blob/master/rust/kernel/pci.rs)
+
+### PCIe
+- [TI Precision Labs - PCIe - YouTube](https://www.youtube.com/playlist?list=PLISmVLHAZbTRrKG6mQPd5ERS0ZfB0Cbpi)
