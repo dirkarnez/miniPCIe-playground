@@ -17,3 +17,6 @@ miniPCIe-playground
 
 ### PCIe
 - [TI Precision Labs - PCIe - YouTube](https://www.youtube.com/playlist?list=PLISmVLHAZbTRrKG6mQPd5ERS0ZfB0Cbpi)
+
+### Videos
+- [I made a computer you plug into a graphics card #shorts - YouTube](https://www.youtube.com/shorts/YaqJginb4go)
