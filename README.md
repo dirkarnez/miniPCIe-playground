@@ -20,3 +20,7 @@ miniPCIe-playground
 
 ### Videos
 - [I made a computer you plug into a graphics card #shorts - YouTube](https://www.youtube.com/shorts/YaqJginb4go)
+
+### Tools
+- [pciutils/pciids-web: Web interface of the PCI ID database](https://github.com/pciutils/pciids-web)
+- [pciutils/pciutils: The PCI Utilities](https://github.com/pciutils/pciutils)
